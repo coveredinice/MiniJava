@@ -15,7 +15,8 @@ Two pieces of MiniJava code are included to test the interpreter:
   <li><b>test2.java</b> tests arithmetic operations, booleans, conditionals. It's the easy-going brother of test1.
 </ul>
 
+The irony of extending class `Europe` with class `England` is not lost to me. 
+
 <h2>What's next</h2>
 
 A few things. Some comments are in Italian - just skip them until I translate them. The code could be restructured to be more compact and less redundant but I love it anyway.
-
